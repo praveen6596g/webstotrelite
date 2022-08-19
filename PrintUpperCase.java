@@ -2,7 +2,7 @@ package ForLoopUsingCondition;
 
 public class PrintUpperCase {
 	public static void main(String[] args) {
-		String nums="ExAmPlE";
+		String nums="rAmKumAr";
 	String name=nums.toUpperCase();
 		
 		for(int i=0;i<nums.length();i++) {
